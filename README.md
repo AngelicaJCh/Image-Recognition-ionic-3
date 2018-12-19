@@ -1,5 +1,5 @@
 # Image-Recognition-ionic-3
-Click to see App Video 
+Click on the image to see App Video 
 
 [![Video App](https://img.youtube.com/vi/MCZvWAV8SFA/0.jpg)](https://youtu.be/MCZvWAV8SFA)
 
