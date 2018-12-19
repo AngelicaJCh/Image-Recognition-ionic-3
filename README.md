@@ -1,5 +1,5 @@
 # Image-Recognition-ionic-3
-[![Watch the video](https://youtu.be/MCZvWAV8SFA)
+[![Watch the video]](https://youtu.be/MCZvWAV8SFA)
 
 ## Setup
 
