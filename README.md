@@ -1,5 +1,5 @@
 # Image-Recognition-ionic-3
-![](ImageRecognitionionic3v20.gif)
+https://drive.google.com/open?id=1yYZ4oPzvgD-8646GFWJX4j8n9km_gMSI
 
 ## Setup
 
