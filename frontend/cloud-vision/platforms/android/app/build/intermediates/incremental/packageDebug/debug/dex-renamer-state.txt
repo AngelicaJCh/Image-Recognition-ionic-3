@@ -1,4 +1,0 @@
-#Wed Dec 12 23:44:13 GMT 2018
-base.0=C\:\\Users\\Kevin Dias\\Desktop\\Ionic-3-cloud-vision\\frontend\\cloud-vision\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-renamed.0=classes.dex
-file.0=C\:\\Users\\Kevin Dias\\Desktop\\Ionic-3-cloud-vision\\frontend\\cloud-vision\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
