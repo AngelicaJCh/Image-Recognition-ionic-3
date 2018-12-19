@@ -1,4 +1,6 @@
 # Image-Recognition-ionic-3
+
+Click to see `Video App`
 [![Video App](https://img.youtube.com/vi/MCZvWAV8SFA/0.jpg)](https://youtu.be/MCZvWAV8SFA)
 
 ## Setup
