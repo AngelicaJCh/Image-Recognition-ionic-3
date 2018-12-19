@@ -1,4 +1,5 @@
 # Image-Recognition-ionic-3
+![](ImageRecognitionionic3v20.gif)
 
 ## Setup
 
