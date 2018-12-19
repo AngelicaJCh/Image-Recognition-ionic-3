@@ -1,5 +1,5 @@
 # Image-Recognition-ionic-3
-https://drive.google.com/open?id=1yYZ4oPzvgD-8646GFWJX4j8n9km_gMSI
+[![Watch the video](https://youtu.be/MCZvWAV8SFA)
 
 ## Setup
 
